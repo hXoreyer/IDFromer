@@ -1,5 +1,5 @@
-#ifndef WHERE_H
-#define WHERE_H
+#ifndef IDFROMER_H
+#define IDFROMER_H
 
 #include <iostream>
 #include <fstream>
@@ -23,4 +23,4 @@ private:
 };
 
 
-#endif //WHERE_H
+#endif //IDFROMER_H
